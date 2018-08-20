@@ -1,0 +1,22 @@
+{
+    "erlang.codeLensEnabled": true,
+    "erlang.linting": true,
+    "erlang.verbose": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.fontWeight": "900",
+    "editor.fontSize": 13,
+    "editor.codeLens": true,
+    "terminal.integrated.fontSize": 13,
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "elixirLS.dialyzerEnabled": true,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.minimap.enabled": false,
+    "powermode.enabled": false,
+    "powermode.presets": "clippy",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme"
+}
